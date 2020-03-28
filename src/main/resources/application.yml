@@ -1,0 +1,5 @@
+omdb:
+    apiKey: 57446f3e
+    apiUrl: http://omdbapi.com
+    mimeType: application/json
+    userAgent: My OMDB
